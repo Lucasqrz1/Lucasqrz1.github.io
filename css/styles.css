@@ -10,11 +10,11 @@
 :root {
   --main-color: #4f6ef7;        /* azul analítico */
   --main-text-color: #1f2937;   /* cinza escuro (texto) */
-  --border-color: #e5e7eb;      /* cinza claro */
+  --border-color: #c5ccdc;      /* cinza claro */
 
-  --bio-bg-color: #f8fafc;      /* off-white */
+  --bio-bg-color: #d5d9dc;      /* off-white */
   --bio-border-color: #e2e8f0;  /* cinza suave */
-  --about-bg-color: #ffffff;   /* branco */
+  --about-bg-color: #eff3f0;   /* branco */
 }
 
 
