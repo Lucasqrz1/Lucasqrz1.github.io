@@ -8,10 +8,9 @@
 
 /* Variables */
 :root {
-  --main-color: #4f6ef7;        /* azul analítico */
+  --main-color: #5e78ed;        /* azul analítico */
   --main-text-color: #1f2937;   /* cinza escuro (texto) */
   --border-color: #c5ccdc;      /* cinza claro */
-
   --bio-bg-color: #d5d9dc;      /* off-white */
   --bio-border-color: #e2e8f0;  /* cinza suave */
   --about-bg-color: #eff3f0;   /* branco */
